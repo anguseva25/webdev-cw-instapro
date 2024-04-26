@@ -14,7 +14,7 @@ export function renderAddPostPageComponent({ appEl, onAddPostClick }) {
       <button class="header-button add-or-login-button">
       <div title="Добавить пост" class="add-post-sign"></div>
       </button>
-      <button title="Fnami" class="header-button logout-button">Выйти</button>  
+      <button title="exit-btn" class="header-button logout-button">Выйти</button>  
       
   </div>
   
